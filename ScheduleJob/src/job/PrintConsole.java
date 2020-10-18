@@ -4,7 +4,7 @@ public class PrintConsole {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Check if this is printed");
+		System.out.println("Check if this is printed pls");
 
 	}
 
